@@ -1,0 +1,2 @@
+Olá!
+O projeto consiste em criar uma versão simplificada do popular jogo Flappy Bird utilizando a linguagem Python. Criei esse projeto também como um exercício prático para aprender conceitos de programação, lógica de jogo e interação com elementos gráficos.
